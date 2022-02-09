@@ -156,6 +156,5 @@ No known bugs at this time.
 ## [Authors](./AUTHORS)
 Oluyele Sunday Anthony - [Github](https://github.com/Tonycrux) / [Twitter](https://twitter.com/istonycrux)  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
